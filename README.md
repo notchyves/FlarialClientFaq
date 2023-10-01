@@ -36,7 +36,7 @@ This client for now only supports Windows 10/11. And you need a x64 proccesser t
 - If it says "32-bit operating system, x86-based processor", unfortunately, you can't use Flarial Client.
 - If your PC is ARM or Qualcomm based, you can't use Flarial Client either.
 
-Supported Minecraft Versions:
+Supported Minecraft Version(s):
 ```
 1.20.30
 ```
