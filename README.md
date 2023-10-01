@@ -29,7 +29,8 @@ You will need to setup the injector with the Flarial DLL, so it knows what to in
 ## 📱 Supported Devices & Versions
 This client for now only supports Windows 10/11. And you need a x64 proccesser to run it. To check this go to this screen in your Settings:
 
-![image](https://github.com/notchyves/FlarialClientFaq/assets/82107846/2e352a58-269d-4b46-aba2-8b914a4ba9ee)
+![image](https://github.com/notchyves/FlarialClientFaq/assets/82107846/1a6ad2fb-16bd-41a5-b08e-5b9252d75f9c)
+
 
 - If it says "64-bit operating system, x64-based processor", you can use Flarial Client.
 - If it says "32-bit operating system, x64-based processor", you need to install the 64-bit version of Windows. You will have to look up how to do this yourself.
