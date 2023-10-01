@@ -1,1 +1,1 @@
-# FlarialClientFaq
+# Flarial Client FAQ
